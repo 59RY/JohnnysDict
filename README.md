@@ -3,7 +3,7 @@
 
 ## これは何？
 
-ジャニーズに関する用語辞書データです。現在ベータ版ですが、600語余りを収録しています。
+ジャニーズに関する用語辞書データです。現在ベータ版ですが、800語余りを収録しています。
 
 
 ## 登録単語リスト
@@ -24,16 +24,29 @@
 - 以下の入力ソースに対応予定です。
 	- Microsoft IME
 	- Google 日本語入力
-	- Simeji
+	- Simeji for Android
 - このデータはまだまだベータ版です。用語のリクエストがございましたら、以下のいずれかまでお願いします。
 	- プルリクエストの送信
 	- Twitter ([@59RY_sryup](https://twitter.com/59RY_sryup)) へリプライ・DM
 - 『**Hey! Say! JUMP**』を『**Hey!Say!JUMP**』と表記するように言葉のゆらぎがあります。[詳しくはこちらをご覧ください](/README-表記ゆらぎ.md)。
-- 『スパイシー』『パステル』(ともにHey!Say!JUMPの楽曲)など、一般的な入力ソースでも表示される場合は登録しない場合もあります。
+
+
+## 免責
+
+- 技術的理由で、この辞書データは iOS では使用できません。詳しくは #1 をご覧ください。
+
+
+## 謝辞
+
+以下の情報を参考に作らせて頂いております。
+
+- [Strawberry.Prince...★ － J U M P 応 援 記 －](http://jump05.blog99.fc2.com/)
+- [Wikipedia 日本語版](https://ja.wikipedia.org/)
+- その他、匿名の方々（Twitter、LINE Q など）
 
 
 ## 著作権・ライセンス
 
-© [yuta⌒*♡ (59RY)](https://twitter.com/59RY_sryup), Some Rights Reserved.
+© [yuta⌒*♡ (59RY)](https://twitter.com/59RY_sryup).
 
 ライセンスは [Apache v2 License](https://www.apache.org/licenses/LICENSE-2.0.html) とします。
